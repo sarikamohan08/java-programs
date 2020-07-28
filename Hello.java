@@ -1,8 +1,16 @@
+/**
+ * 
+ */
 
+/**
+ * @author Lenovo
+ *
+ */
 public class Hello {
 
-	public static void main(String[] args) {
-		System.out.println("Hello World!!");
+	public static void main(String[] args){
+		int x = 10 ;
+		System.out.println(x);
 	}
 
 }
